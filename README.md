@@ -25,3 +25,5 @@ background-color: yellow;
 }
 Now, when mouse comes ontop of them, the background changes to yellow.
 That was how i achieved my desire.
+
+Technologies used are only HTML and CSS.
